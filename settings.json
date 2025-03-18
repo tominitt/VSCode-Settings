@@ -1,0 +1,108 @@
+{
+	"files.encoding": "utf8",
+	"editor.fontFamily": "'Consolas', 'monospace'",
+	"window.title": "${activeEditorShort}${separator}${rootName}",
+	"editor.wordWrap": "on",
+	"editor.multiCursorModifier": "ctrlCmd",
+	"editor.snippetSuggestions": "top",
+	"editor.fontSize": 12,
+	"editor.insertSpaces": false,
+	"editor.autoIndent": "advanced",
+	"editor.acceptSuggestionOnCommitCharacter": false,
+	"editor.tokenColorCustomizations": {
+		"[Monokai]": {
+			"comments": "#0F0"
+		}
+	},
+	"workbench.startupEditor": "none",
+	"workbench.iconTheme": "vscode-icons",
+	"security.workspace.trust.untrustedFiles": "open",
+	"security.workspace.trust.startupPrompt": "never",
+	"security.workspace.trust.enabled": false,
+	"vsicons.dontShowNewVersionMessage": true,
+	"explorer.confirmDelete": false,
+	"terminal.integrated.defaultProfile.windows": "Git Bash",
+	"gitlens.currentLine.enabled": false,
+	"gitlens.hovers.currentLine.over": "line",
+	"git.autofetch": true,
+	"workbench.editor.empty.hint": "hidden",
+	"editor.tabSize": 2,
+	"editor.inlineSuggest.showToolbar": "always",
+	"github.copilot.advanced": {},
+	"github.copilot.editor.enableAutoCompletions": false,
+	"workbench.editorAssociations": {
+		"*.class": "default"
+	},
+	"readme.generator.settings.github": "tominitt",
+	"readme.generator.settings.name": "tominitt",
+	"github.copilot.editor.enableCodeActions": false,
+	"files.exclude": {
+		"**/.git": false
+	},
+	"license.default": "mit",
+	"license.author": "tominitt",
+	"markdown-preview-enhanced.previewTheme": "github-dark.css",
+	"editor.formatOnSave": false,
+  "background.fullscreen": {
+		"images": [
+			"file:///C:/Users/Tom Pugh/AppData/Roaming/Code/User/backgrounds/cyberpunk/background.jpg"
+		],
+		"opacity": 0.05,
+		"size": "cover",
+		"position": "center",
+		"interval": 0,
+		"random": false
+	},
+	"workbench.colorTheme": "Activate SCARLET protocol (beta)",
+	"background.enabled": true,
+  "settings.cycle": [
+      {
+        "id": "colorTheme",
+        "overrideWorkspaceSettings": false,
+        "values": [
+          {
+            "workbench.colorTheme": "Bearded Theme Black & Amethyst",
+						"background.fullscreen": {
+							// Local images can be dragged into the browser to quickly get the file protocol address from the address bar
+							"images": ["file:///C:/Users/Tom Pugh/AppData/Roaming/Code/User/backgrounds/amethyst/background.gif"],
+							"opacity": 0.05,
+							"size": "cover",
+							"position": "center",
+							"interval": 0,
+							"random": false
+						}
+          },
+					{
+            "workbench.colorTheme": "Bearded Theme Black & Amethyst",
+						"background.fullscreen": {
+							// Local images can be dragged into the browser to quickly get the file protocol address from the address bar
+							"images": [
+								"file:///C:/Users/Tom Pugh/AppData/Roaming/Code/User/backgrounds/carousel/background1.jpg",
+								"file:///C:/Users/Tom Pugh/AppData/Roaming/Code/User/backgrounds/carousel/background2.jpg",
+								"file:///C:/Users/Tom Pugh/AppData/Roaming/Code/User/backgrounds/carousel/background3.webp",
+								"file:///C:/Users/Tom Pugh/AppData/Roaming/Code/User/backgrounds/carousel/background4.png"
+							],
+							"opacity": 0.05,
+							"size": "cover",
+							"position": "center",
+							"interval": 120,
+							"random": true
+						}
+          },
+          {
+            "workbench.colorTheme": "Activate SCARLET protocol (beta)",
+						"background.fullscreen": {
+							// Local images can be dragged into the browser to quickly get the file protocol address from the address bar
+							"images": ["file:///C:/Users/Tom Pugh/AppData/Roaming/Code/User/backgrounds/cyberpunk/background.jpg"],
+							"opacity": 0.05,
+							"size": "cover",
+							"position": "center",
+							"interval": 0,
+							"random": false
+						}
+          }
+        ]
+      }
+	],
+	"explorer.compactFolders": false
+}
