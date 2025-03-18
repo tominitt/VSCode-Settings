@@ -100,6 +100,23 @@
 							"interval": 0,
 							"random": false
 						}
+          },
+					{
+            "workbench.colorTheme": "Bearded Theme Black & Amethyst",
+						"background.fullscreen": {
+							// Local images can be dragged into the browser to quickly get the file protocol address from the address bar
+							"images": [
+								"file:///C:/Users/Tom Pugh/AppData/Roaming/Code/User/backgrounds/carousel/background1.jpg",
+								"file:///C:/Users/Tom Pugh/AppData/Roaming/Code/User/backgrounds/carousel/background2.jpg",
+								"file:///C:/Users/Tom Pugh/AppData/Roaming/Code/User/backgrounds/carousel/background3.webp",
+								"file:///C:/Users/Tom Pugh/AppData/Roaming/Code/User/backgrounds/carousel/background4.png"
+							],
+							"opacity": 0.05,
+							"size": "cover",
+							"position": "center",
+							"interval": 120,
+							"random": true
+						}
           }
         ]
       }
